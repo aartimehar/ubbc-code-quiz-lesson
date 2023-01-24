@@ -1,12 +1,12 @@
-## Code-Quiz-Lesson
+##  Code-Quiz-Lesson
 
-# Deployed URL
+#  Deployed URL
 
-# User Story
-#![Screenshot 2023-01-24 235744](https://user-images.githubusercontent.com/113493756/214447313-43c33e85-60b7-4d0c-a4d7-8393fd1cc862.png)
+#  User Story
+![Screenshot 2023-01-24 235744](https://user-images.githubusercontent.com/113493756/214447313-43c33e85-60b7-4d0c-a4d7-8393fd1cc862.png)
 
 
-## Acceptance Criteria
+# Acceptance Criteria
 
 ![Screenshot 2023-01-25 000005](https://user-images.githubusercontent.com/113493756/214447437-d4c89544-4e01-4e6d-9b4a-9778bf0b3a13.png)
 
