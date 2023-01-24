@@ -92,7 +92,7 @@ function updateQuestions () {
     document.cookie = `score=${score}`
 
     // Navigate to highscore page
-    window.location.href = '/highscores.html'
+    window.location.href = '/ubbc-code-quiz-lesson/highscores.html'
   }
 
   // Change question title and choices to next question
