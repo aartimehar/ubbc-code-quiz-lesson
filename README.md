@@ -1,14 +1,15 @@
-### Code-Quiz-Lesson
+## Code-Quiz-Lesson
 
-## Depoloyed URL
+# Depoloyed URL
 
-## User Story
+# User Story
+#![Screenshot 2023-01-24 235744](https://user-images.githubusercontent.com/113493756/214447313-43c33e85-60b7-4d0c-a4d7-8393fd1cc862.png)
 
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
 
 ## Acceptance Criteria
+
+![Screenshot 2023-01-25 000005](https://user-images.githubusercontent.com/113493756/214447437-d4c89544-4e01-4e6d-9b4a-9778bf0b3a13.png)
+
 
 # Create a code quiz that contains the following requirements:
 
