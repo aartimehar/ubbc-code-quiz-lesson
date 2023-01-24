@@ -22,12 +22,53 @@
           limit. Keep in mind that incorrect answers will penalize your
           score/time by ten seconds!
         </p>
-        <button id="start">Start Quiz</button>
+        <button onclick="onStartQuiz()" id="start">Start Quiz</button>
       </div>
 
       <div id="questions" class="hide">
         <h2 id="question-title"></h2>
-        <div id="choices" class="choices"></div>
+        <div id="choices" class="choices">
+          <div>
+            <input
+              onchange="onAnswerSelected(this)"
+              type="radio"
+              id="q0choice"
+              name="choices"
+              value=""
+              checked />
+            <label id="q0label" for="q1"></label>
+          </div>
+
+          <div>
+            <input
+              onchange="onAnswerSelected(this)"
+              type="radio"
+              id="q1choice"
+              name="choices"
+              value="" />
+            <label id="q1label" for="q2"></label>
+          </div>
+
+          <div>
+            <input
+              onchange="onAnswerSelected(this)"
+              type="radio"
+              id="q2choice"
+              name="choices"
+              value="" />
+            <label id="q2label" for="q3"></label>
+          </div>
+
+          <div>
+            <input
+              onchange="onAnswerSelected(this)"
+              type="radio"
+              id="q3choice"
+              name="choices"
+              value="" />
+            <label id="q3label" for="q4"></label>
+          </div>
+        </div>
       </div>
 
       <div id="end-screen" class="hide">
@@ -42,7 +83,6 @@
       <div id="feedback" class="feedback hide"></div>
     </div>
 
-    <script src="./assets/js/questions.js"></script>
     <script src="./assets/js/logic.js"></script>
   </body>
 </html>
