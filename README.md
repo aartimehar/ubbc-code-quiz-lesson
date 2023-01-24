@@ -1,6 +1,6 @@
 ## Code-Quiz-Lesson
 
-# Depoloyed URL
+# Deployed URL
 
 # User Story
 #![Screenshot 2023-01-24 235744](https://user-images.githubusercontent.com/113493756/214447313-43c33e85-60b7-4d0c-a4d7-8393fd1cc862.png)
