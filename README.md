@@ -26,6 +26,7 @@
 - When the game ends, it should display their score and give the user the ability to save their initials and their score
 
 ## Screenshot
+![Screenshot 2023-01-25 000924](https://user-images.githubusercontent.com/113493756/214448872-f65ba3e4-7581-46ed-b0b1-134d8ab1bf1a.png)
 
 
 ## Installation
