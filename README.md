@@ -1,15 +1,16 @@
-#  Code-Quiz-Lesson
+
+##  Code-Quiz-Lesson
 
 #  Deployed URL
+
+ https://aartimehar.github.io/ubbc-code-quiz-lesson/index.html
 
 #  User Story
 ![Screenshot 2023-01-24 235744](https://user-images.githubusercontent.com/113493756/214447313-43c33e85-60b7-4d0c-a4d7-8393fd1cc862.png)
 
-
 # Acceptance Criteria
 
 ![Screenshot 2023-01-25 000005](https://user-images.githubusercontent.com/113493756/214447437-d4c89544-4e01-4e6d-9b4a-9778bf0b3a13.png)
-
 
 # Create a code quiz that contains the following requirements:
 
@@ -28,21 +29,14 @@
 ## Screenshot
 ![Screenshot 2023-01-25 000924](https://user-images.githubusercontent.com/113493756/214448872-f65ba3e4-7581-46ed-b0b1-134d8ab1bf1a.png)
 
-
 ## Installation
 
 N/A
 
 ## Github URL
 
+https://github.com/aartimehar/ubbc-code-quiz-lesson
+
 ## Credits
 
 Thank you to thr whole team of bootcampspot for organising the front-end development and UI course. I as a learner appreciate the efforts of bootcamp spot for providing stunning learning materials to excel during this bootcamp.
-
-
-
-
-
-
-
-
